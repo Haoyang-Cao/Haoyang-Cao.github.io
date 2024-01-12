@@ -7,11 +7,7 @@ title: Home
 ---
 
 |||---||| 5,7
-<div class="start-double-col">
-<div class="home-image" markdown=1>
 ![Photo of Me](/HC.jpeg)
-</div>
-</div>
 
 ### About Me
 
