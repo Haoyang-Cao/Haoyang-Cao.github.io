@@ -3,7 +3,7 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <h2 class="footer-heading">{{ "Contact" | escape }}</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -15,9 +15,12 @@
               {{ site.title | escape }}
             {%- endif -%}
             </li>
-            {%- if site.email -%}
+          <li class="u-address">
+            {{"Department of Applied Mathematics and Statistics, Johns Hopkins University <br /> 3400 North Charles Street, Office N.434 <br />
+            Baltimore, MD 21218" | escape}}</li>
+          {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          {%- endif -%}
         </ul>
       </div>
 
