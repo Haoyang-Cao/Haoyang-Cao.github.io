@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+order: 3
 ---
 
 This is a test of adding pages to my web.
