@@ -5,4 +5,8 @@
 layout: default
 title: Home
 ---
-<h1>{{ "Hello World!" | downcase }}</h1>
+<div class="home_image_container">
+<div class="home_image">
+![Photo of Me](/HC.jpeg)
+</div>
+</div>
