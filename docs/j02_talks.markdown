@@ -4,8 +4,6 @@ title: Talks
 permalink: /talks/
 ---
 
-Here are a list of conferences, workshops and seminars where I have been invited to give talks.
-
 - **ICAIF’23 Workshop – Transfer Learning and its Applications in Finance**, New York NY, Nov 2023
 
 - **Paris Bachelier Seminar**, Paris France, Nov 2023
