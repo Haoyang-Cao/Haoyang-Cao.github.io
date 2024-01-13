@@ -3,11 +3,11 @@ layout: page
 title: Research
 permalink: /research/
 ---
-## Research Interests
+### Research Interests
 
 My research interests can be roughly divided into two categories. One is about **stochastic differential games** and **mean field games**, together with related topics of **applied probability**, **stochastic analysis**, and **partial differential equations**. The other is machine learning, especially **generative models**, **transfer learning** and **(inverse reinforcement) learning**. A majority of the problems in the above areas arise from the fields of **finance**, **economics** and **operations research** and it is equally facinating to see how the analytical and computational tools can help solve practical problems in these fields.
 
-## Publications
+### Publications
 
 - Haoyang Cao, Xin Guo and Mathieu Lauriere. **[Connecting GANs, mean-field games and optimal transport](https://arxiv.org/abs/2002.04112)**. To appear, SIAM Journal on Applied Mathematics, 2024.
 
