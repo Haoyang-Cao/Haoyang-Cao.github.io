@@ -32,6 +32,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+minima:
+  social_links:
+    - platform: google_scholar  # same as SVG filename.
+      user_url: "https://scholar.google.com/citations?user=6me8OQsAAAAJ&hl=en"  # URL of profile page.
+      title:  My profile at Google Scholar  # Optional. Text displayed on hovering over link.
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
