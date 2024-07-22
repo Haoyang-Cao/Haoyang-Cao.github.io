@@ -13,7 +13,7 @@ My research interests can be roughly divided into two categories. One is about *
 
 - Haoyang Cao, Xin Guo and Mathieu Lauriere. **[Connecting GANs, mean-field games and optimal transport](https://epubs.siam.org/doi/full/10.1137/22M1499534)**. *SIAM Journal on Applied Mathematics* 84(4), pp. 1255-1287, 2024.
 
-- Haoyang Cao and Xin Guo. **[SDE approximations of GANs training and its long-run behavior](https://arxiv.org/pdf/2006.02047)**. *Journal of Applied Probability* 61(2), pp. 465 - 489, 2023.
+- Haoyang Cao and Xin Guo. **[SDE approximations of GANs training and its long-run behavior](https://arxiv.org/pdf/2006.02047)**. *Journal of Applied Probability* 61(2), pp. 465-489, 2023.
 
 - Haoyang Cao and Xin Guo. **[Generative Adversarial Networks: Some Analytical Perspective](https://arxiv.org/abs/2104.12210)**. *Machine Learning for Financial Markets: a guide to contemporary practices*, edited by Agostino Capponi and Charles-Albert Lehalle, Cambridge University Press, 2023.
 
@@ -31,7 +31,7 @@ My research interests can be roughly divided into two categories. One is about *
 
 - Haoyang Cao, Zhengqi Wu, and Renyuan Xu. **[Inference of Utilities and Time Preference in Sequential Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4840776)**. Submitted, 2024.
 
-- Haoyang Cao, Haotian Gu, Xin Guo. **Feasibility and transferability of transfer learning: a mathematical framework**. Working paper, 2024.
+- Haoyang Cao, Haotian Gu, Xin Guo. **Feasibility and risk of transfer learning: a mathematical framework**. Working paper, 2024.
 
 - Haoyang Cao, Xin Guo and Guan Wang. **[Meta-learning with GANs for anomaly detection, with deployment in high-speed rail inspection system](https://arxiv.org/pdf/2202.05795)**. Working paper, 2024.
 
