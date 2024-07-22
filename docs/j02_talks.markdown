@@ -6,6 +6,12 @@ permalink: /talks/
 
 Here is a list of conferences, workshops and seminars where I have been invited to give talks.
 
+- **12th Bachelier World Congress of the Bachelier Finance Society**, Rio de Janeiro Brazil, Jul 2024
+
+- **Fields-CFI Bootcamp on Machine Learning for Finance**, Toronto ON Canada, Apr 2024
+
+- **CIS & MINDS Seminar**, Baltimore MD, Mar 2024
+  
 - **ICAIF’23 Workshop – Transfer Learning and its Applications in Finance**, New York NY, Nov 2023
 
 - **Paris Bachelier Seminar**, Paris France, Nov 2023
