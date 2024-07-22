@@ -4,9 +4,13 @@ title: Teaching
 permalink: /teaching/
 ---
 
-**In the coming Spring semester of 2024, I will be teaching a newly approved course at Master/PhD level.**
+**At Hopkins, I am teaching and have taught the following courses.**
 
-- **EN.553.640 Machine Learning in Finance**
+- **Gradauate Level**:
+
+  - EN.553.701 Real Analysis: Preparation for the Ph.D. Introductory Examination, Fall 2025
+
+  - EN.553.640 Machine Learning in Finance, Spring 2024
 
 My past experiences as teaching assistant at UC Berkeley cover undergraduate to PhD level probability and stochastic processes, including topics such as random variables, Markov chain, Poisson process, renewal process, martingale, Brownian motion, Itô calculus, etc. I am also interested in offering courses in financial engineering, simulation and machine learning.
 
