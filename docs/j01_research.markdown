@@ -11,13 +11,13 @@ My research interests can be roughly divided into two categories. One is about *
 
 #### Publications
 
-- Haoyang Cao, Xin Guo and Mathieu Lauriere. **[Connecting GANs, mean-field games and optimal transport](https://arxiv.org/abs/2002.04112)**. To appear, SIAM Journal on Applied Mathematics, 2024.
+- Haoyang Cao, Xin Guo and Mathieu Lauriere. **[Connecting GANs, mean-field games and optimal transport](https://epubs.siam.org/doi/full/10.1137/22M1499534)**. SIAM Journal on Applied Mathematics 84(4), pp. 1255-1287, 2024.
 
-- Haoyang Cao and Xin Guo. **[SDE approximations of GANs training and its long-run behavior](https://arxiv.org/pdf/2006.02047)**. Journal of Applied Probability (First View), pp. 1-25, 2023.
+- Haoyang Cao and Xin Guo. **[SDE approximations of GANs training and its long-run behavior](https://arxiv.org/pdf/2006.02047)**. Journal of Applied Probability 61(2), pp. 465 - 489, 2023.
 
 - Haoyang Cao and Xin Guo. **[Generative Adversarial Networks: Some Analytical Perspective](https://arxiv.org/abs/2104.12210)**. Machine Learning for Financial Markets: a guide to contemporary practices, edited by Agostino Capponi and Charles-Albert Lehalle, Cambridge University Press, 2023.
 
-- Haoyang Cao, Xin Guo and Joon Seok Lee. **[Approximation of N-player stochastic games with singular controls by mean field games](https://www.aimsciences.org/article/doi/10.3934/naco.2023001)**. Numerical Algebra, Control and Optimization 13(3&4), 2023.
+- Haoyang Cao, Xin Guo and Joon Seok Lee. **[Approximation of N-player stochastic games with singular controls by mean field games](https://www.aimsciences.org/article/doi/10.3934/naco.2023001)**. Numerical Algebra, Control and Optimization 13(3&4), pp. 604-629, 2023.
 
 - Haoyang Cao, Jodi Dianetti, and Giorgio Ferrari. **[Stationary discounted and ergodic mean field games with singular controls](https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.1323)**. Mathematics of Operations Research 48(4), pp. 1871-1893, 2022.
 
