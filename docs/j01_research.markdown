@@ -11,21 +11,21 @@ My research interests can be roughly divided into two categories. One is about *
 
 #### Publications
 
-- Haoyang Cao, Xin Guo and Mathieu Lauriere. **[Connecting GANs, mean-field games and optimal transport](https://epubs.siam.org/doi/full/10.1137/22M1499534)**. SIAM Journal on Applied Mathematics 84(4), pp. 1255-1287, 2024.
+- Haoyang Cao, Xin Guo and Mathieu Lauriere. **[Connecting GANs, mean-field games and optimal transport](https://epubs.siam.org/doi/full/10.1137/22M1499534)**. *SIAM Journal on Applied Mathematics* 84(4), pp. 1255-1287, 2024.
 
-- Haoyang Cao and Xin Guo. **[SDE approximations of GANs training and its long-run behavior](https://arxiv.org/pdf/2006.02047)**. Journal of Applied Probability 61(2), pp. 465 - 489, 2023.
+- Haoyang Cao and Xin Guo. **[SDE approximations of GANs training and its long-run behavior](https://arxiv.org/pdf/2006.02047)**. *Journal of Applied Probability* 61(2), pp. 465 - 489, 2023.
 
-- Haoyang Cao and Xin Guo. **[Generative Adversarial Networks: Some Analytical Perspective](https://arxiv.org/abs/2104.12210)**. Machine Learning for Financial Markets: a guide to contemporary practices, edited by Agostino Capponi and Charles-Albert Lehalle, Cambridge University Press, 2023.
+- Haoyang Cao and Xin Guo. **[Generative Adversarial Networks: Some Analytical Perspective](https://arxiv.org/abs/2104.12210)**. *Machine Learning for Financial Markets: a guide to contemporary practices*, edited by Agostino Capponi and Charles-Albert Lehalle, Cambridge University Press, 2023.
 
-- Haoyang Cao, Xin Guo and Joon Seok Lee. **[Approximation of N-player stochastic games with singular controls by mean field games](https://www.aimsciences.org/article/doi/10.3934/naco.2023001)**. Numerical Algebra, Control and Optimization 13(3&4), pp. 604-629, 2023.
+- Haoyang Cao, Xin Guo and Joon Seok Lee. **[Approximation of N-player stochastic games with singular controls by mean field games](https://www.aimsciences.org/article/doi/10.3934/naco.2023001)**. *Numerical Algebra, Control and Optimization* 13(3&4), pp. 604-629, 2023.
 
-- Haoyang Cao, Jodi Dianetti, and Giorgio Ferrari. **[Stationary discounted and ergodic mean field games with singular controls](https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.1323)**. Mathematics of Operations Research 48(4), pp. 1871-1893, 2022.
+- Haoyang Cao, Jodi Dianetti, and Giorgio Ferrari. **[Stationary discounted and ergodic mean field games with singular controls](https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.1323)**. *Mathematics of Operations Research* 48(4), pp. 1871-1893, 2022.
 
-- Matteo Basei, Haoyang Cao, and Xin Guo. **[Nonzero-sum stochastic games and mean-field games with impulse controls](https://pubsonline.informs.org/doi/abs/10.1287/moor.2021.1131)**. Mathematics of Operations Research 47(1), pp. 341-366, 2022.
+- Matteo Basei, Haoyang Cao, and Xin Guo. **[Nonzero-sum stochastic games and mean-field games with impulse controls](https://pubsonline.informs.org/doi/abs/10.1287/moor.2021.1131)**. *Mathematics of Operations Research* 47(1), pp. 341-366, 2022.
 
-- Haoyang Cao and Xin Guo. **[MFGs for partially reversible investment](https://www.sciencedirect.com/science/article/abs/pii/S0304414920303665)**. Stochastic Processes and their Applications, Vol. 150, pp. 995-1014, 2022.
+- Haoyang Cao and Xin Guo. **[MFGs for partially reversible investment](https://www.sciencedirect.com/science/article/abs/pii/S0304414920303665)**. *Stochastic Processes and their Applications*, Vol. 150, pp. 995-1014, 2022.
 
-- Haoyang Cao, Samuel N. Cohen and Lukasz Szpruch. **[Identifiability in inverse reinforcement learning](https://proceedings.neurips.cc/paper/2021/hash/671f0311e2754fcdd37f70a8550379bc-Abstract.html)**. Advances in Neural Information Processing Systems 34, 2021.
+- Haoyang Cao, Samuel N. Cohen and Lukasz Szpruch. **[Identifiability in inverse reinforcement learning](https://proceedings.neurips.cc/paper/2021/hash/671f0311e2754fcdd37f70a8550379bc-Abstract.html)**. *Advances in Neural Information Processing Systems* 34, 2021.
 
 #### Preprints
 
