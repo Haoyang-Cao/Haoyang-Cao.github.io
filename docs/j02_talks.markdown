@@ -6,6 +6,8 @@ permalink: /talks/
 
 Here is a list of conferences, workshops and seminars where I have been invited to give talks.
 
+- **8th Eastern Conference on Mathematical Conference**, Toronto ON Canada, Sep 2024
+
 - **12th Bachelier World Congress of the Bachelier Finance Society**, Rio de Janeiro Brazil, Jul 2024
 
 - **Fields-CFI Bootcamp on Machine Learning for Finance**, Toronto ON Canada, Apr 2024
